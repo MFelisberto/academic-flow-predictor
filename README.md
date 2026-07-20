@@ -12,3 +12,13 @@ O sistema resolve problemas de alocação de recursos e *deadlocks* acadêmicos 
 * **Banco de Dados:** PostgreSQL (Modelagem Relacional Multidomínio)
 * **Infraestrutura:** Docker & Docker Compose
 * **Visualização Analítica:** Microsoft Power BI
+
+## ⚙️ Como rodar o projeto localmente
+
+**Pré-requisitos:**
+* [Docker](https://www.docker.com/) instalado em sua máquina.
+
+**Passo a passo:**
+1. Clone o repositório:
+```bash
+git clone [https://github.com/seu-usuario/academic-flow-predictor.git](https://github.com/seu-usuario/academic-flow-predictor.git)
